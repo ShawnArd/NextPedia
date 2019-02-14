@@ -4,7 +4,7 @@ Our App's Goal is to allow clients to book and manage vacations and flights that
 
 https://nextpedia.herokuapp.com/
 
-Login: test2@test.com Password: asdasdasd
+Login: test60@test.com Password: asdasdasd
 
 Our App Pages:
 
